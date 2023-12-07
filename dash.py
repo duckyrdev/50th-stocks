@@ -14,7 +14,7 @@ local_css("style.css")
 
 # Create an opening screen
 # Display the GIF
-st.image("mandalorian_happy.gif", use_column_width=True)
+st.image("mandalorian-happy.gif", use_column_width=True)
 st.markdown("<h2 style='text-align: center; color: #FF5733;'>Happy Birthday Papa!...</h2>", unsafe_allow_html=True)
 st.markdown("<h4 style='text-align: center; color: #FF5733;'>Explore the last 50 years of stocks...</h4>", unsafe_allow_html=True)
 st.write("Created by Roshni using Yahoo Finance")
