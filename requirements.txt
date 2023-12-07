@@ -1,9 +1,6 @@
 streamlit
-matplotlib
-numpy 
-pandas
-FundamentalAnalysis
 yfinance
-scipy
 pandas-datareader
-pillow
+datetime
+timedelta
+datetime-timedelta
